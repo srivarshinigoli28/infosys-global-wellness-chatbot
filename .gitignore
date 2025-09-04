@@ -1,13 +1,5 @@
-# Ignore Python virtual environment
 .venv/
-
-# Bytecode and cache
 __pycache__/
-*.py[cod]
-
-# OS files
-.DS_Store
 app.db
 
-# Environment / secret files (if any)
-.env
+
